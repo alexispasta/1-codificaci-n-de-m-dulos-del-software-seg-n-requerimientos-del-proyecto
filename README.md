@@ -1,5 +1,5 @@
 PROYECTO: JAVA_SGRH
-Evidencia: GA7-220501096-AA2-EV01
+Evidencia: GA7-220501096-AA2-EV02
 Aprendiz: Alexis Gonzalez Sogamoso.
 
 Repositorio del proyecto (GitHub):
